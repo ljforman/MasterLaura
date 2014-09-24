@@ -23,10 +23,10 @@ I read [Cashing In On Kids](http://www.jsonline.com/watchdog/watchdogreports/382
 - Key finding:  "the Journal Sentinel was able to identify nearly $750,000 in suspicious child-care disbursements."
   - Support: 
     - Hours worked submitted by individuals were impossible (e.g. one specific mother reported taking just "two days" off during one month and even working all week leading up to her birth, as well as the day she gave birth to seventh child.)
-    - Another instance cites, "child-care funding was approved for 85 hours a week even when children were in school all day. If the statements were to be believed, the children would almost never be home. 
+    - Another instance cites, "child-care funding was approved for 85 hours a week even when children were in school all day. If the statements were to be believed, the children would almost never be home." 
 - Article also makes a compelling case for the lack of accountability/effort on the government's part to check claims prior to approval. 
   - e.g. "State hasn't completed a full audit of the program since 2001."
-  - somehow the state reports "more people entering the workforce" than ever, despite recession (Aug 2007 speficially paying out $43.7M in subsidies, $6M more than any other month in the program's documented history)
+  - Somehow the state reports "more people entering the workforce" than ever, despite recession (Aug 2007 speficially paying out $43.7M in subsidies, $6M more than any other month in the program's documented history)
 
 ### What are the limitations of the data?
 - Article admits state and county regulators refused to release formal datasets/records so author had to obtain "thousands" of pages from various scattered sources
@@ -35,4 +35,4 @@ I read [Cashing In On Kids](http://www.jsonline.com/watchdog/watchdogreports/382
 
 ### Where does data exist online? (URLs)
 
-![Milwaukee Wisconsin Journal Sentinel "Data on Demand"](http://www.jsonline.com/watchdog/dataondemand/37012559.html)
+- [Milwaukee Wisconsin Journal Sentinel "Data on Demand"](http://www.jsonline.com/watchdog/dataondemand/37012559.html)
